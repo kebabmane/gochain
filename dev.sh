@@ -1,0 +1,1 @@
+go run cmd/main.go -l 10000
